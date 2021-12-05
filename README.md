@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-solution-gG1WuYXXT](https://www.frontendmentor.io/solutions/stats-preview-card-component-solution-gG1WuYXXT)
 - Live Site URL: [https://stats-preview-card-component-7wi7roiff-youbyoub48.vercel.app/](https://stats-preview-card-component-7wi7roiff-youbyoub48.vercel.app/)
 
 ## My process
